@@ -11,8 +11,9 @@
 网卡：&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Intel2.5GbE 网络芯片(I255-V)**
 
 ## 功能
-**自用的efi集合了几家的efi长处并自己修改，经过一个多月大大小小的修改完善，可以说接近完美。 <br>
-蓝牙和网卡：&nbsp;&nbsp;&nbsp;主板自带wifi6和蓝牙没有拆，通过USB定制屏蔽主板蓝牙，安装苹果免驱卡 <br>
+自用的efi集合了几家的efi长处并自己修改，经过一个多月大大小小的修改完善，可以说接近完美。 <br>
+<br>
+**蓝牙和网卡：&nbsp;&nbsp;&nbsp;主板自带wifi6和蓝牙没有拆，通过USB定制屏蔽主板蓝牙，安装苹果免驱卡 <br>
 USB定制：&nbsp;&nbsp;&nbsp;USB定制完整type-c各项正常，键盘、鼠标、摄像头需要内建插最上面4个usb2.0口 <br>
 电源管理：&nbsp;&nbsp;&nbsp;节电四项（是在觉得多的那项没有用），睡眠唤醒一切正常，ps：小问题就是睡眠必须电源键唤醒 <br>
 视频解码：DRM软解正常（未加参数），奈飞、AppleTV等播放正常 <br>
