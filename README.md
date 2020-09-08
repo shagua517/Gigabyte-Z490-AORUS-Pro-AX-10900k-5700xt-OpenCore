@@ -1,4 +1,6 @@
 # Gigabyte-Z490-AORUS-Pro-AX-10900k-5700xt-OpenCore for MacOS 10.15.6
+![github](https://github.com/shagua517/Gigabyte-Z490-AORUS-Pro-AX-10900k-5700xt-OpenCore/blob/master/pic/1.png "github")
+
 ## 电脑配置
 **处理器&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I9-10900K @3.7GHz 10核20线程 <br>
 主板&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Gigabyte-Z490-AORUS-Pro-AX <br>
@@ -7,4 +9,5 @@
 显卡&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;蓝宝石（Sapphire）RX 5700XT 8G D6 超白金 <br>
 声卡&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Realtek® ALC1220-VB芯片 <br>
 网卡&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Intel2.5GbE 网络芯片(I255-V)**
+
 ## 功能
