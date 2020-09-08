@@ -19,4 +19,9 @@ USB定制：&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;USB定制完整type-c各�
 视频解码：&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;DRM软解正常（未加参数），奈飞、AppleTV等播放正常 <br>
 声音：&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;声卡进行仿冒后置音响正常出声，前置耳机插入自动切换耳机，蓝牙耳机接入也可以实现自动切换，各接口声音和麦正常 <br>
 网卡：&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2.5g网卡采用网上大神的仿冒（如果觉得不稳定手工设置千兆），已经屏蔽自带网卡和蓝牙 <br>
-各类传感器显示正常，下载使用请自行修改三码。
+各类传感器显示正常，AirDrop、Handoff、iMessage也都正常，下载使用请自行修改三码。
+
+## 几张图
+![github](https://github.com/shagua517/Gigabyte-Z490-AORUS-Pro-AX-10900k-5700xt-OpenCore/blob/master/pic/2.png "github")
+![github](https://github.com/shagua517/Gigabyte-Z490-AORUS-Pro-AX-10900k-5700xt-OpenCore/blob/master/pic/3.png "github")
+![github](https://github.com/shagua517/Gigabyte-Z490-AORUS-Pro-AX-10900k-5700xt-OpenCore/blob/master/pic/4.png "github")
